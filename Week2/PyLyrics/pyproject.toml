@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "pylyrics-demo"
+version = "0.1.0"
+description = ""
+authors = ["Rohithgilla12 <gillarohith1@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+[tool.poetry.dev-dependencies]
+pylyrics = "^1.1.0"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
