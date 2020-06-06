@@ -11,7 +11,7 @@ This repository will include
 
 ## Repository structure
 Every folder will be named with `Week <number>`, and inside that there would be sub folders with `Library` names.
-For example, say `Week 2`, I will be discussing about *Streamlit*, *PyLyrics*, *PDFMiner*
+For example, say `Week 2`, I discussed about *Streamlit*, *PyLyrics*, *PDFMiner*
 
 ```
 can-python-do-that
@@ -37,6 +37,24 @@ can-python-do-that
 │   │
 ```
 
+## How to run the codes in the folder
+Every folder uses [poetry](https://python-poetry.org/) as packaging and dependency manager.
+
+### Installing dependencies
+
+```bash
+poetry install
+```
+
+### Running the shell within the virtual environment
+```bash
+poetry shell
+```
+### Exiting the environment
+```bash
+exit
+```
+
 ## Links to the Weekly Posts
 
 | Week Number | Link to the post |
@@ -48,9 +66,10 @@ can-python-do-that
 
 Follow me so that you won't miss new posts under this series. 
 
-[Rohith Gilla](https://dev.to/gillarohith)
-
-
+<a href="https://dev.to/gillarohith">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rohith Gilla's DEV Profile" height="30" width="30">
+</a>
+        
 Peace ✌🏻
 
 Rohith Gilla
