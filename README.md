@@ -60,7 +60,7 @@ exit
 | Week Number | Link to the post |
 |-------------|------------------|
 | 1           | [Post](https://dev.to/gillarohith/wow-can-python-do-that-53ih)            |
-| 2           | Link2            |
+| 2           | [Post](https://dev.to/gillarohith/wow-can-python-do-that-2-54lj)            |
 
 
 
@@ -75,3 +75,4 @@ Peace ✌🏻
 Rohith Gilla
 
 P.S: Please start the project repository if you like it.
+[![HitCount](http://hits.dwyl.com/Rohithgillla12/can-python-do-that.svg)](http://hits.dwyl.com/Rohithgillla12/can-python-do-that)
