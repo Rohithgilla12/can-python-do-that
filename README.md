@@ -3,7 +3,7 @@
 
 Hey everyone, I wanted to start a new series in [DEV](https://dev.to/) with name can python do that.
 
-This series aims to cover python libraries which are amazing and beginner friendly. As a part of this series I will include 3 libraries every week.
+This series aims to cover python libraries which are amazing and beginner friendly. As a part of this series ,I will include 3 libraries every week.
 
 This repository will include 
 - Demo Codes (if available)
